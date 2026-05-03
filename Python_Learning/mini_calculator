@@ -14,7 +14,7 @@ while True:
     print("Please Enter 2 for subtraction and press Enter to continue")
     print("Please Enter 3 for multiplication and press Enter to continue")
     print("Please Enter 4 for division and press Enter to continue")
-    print("Please Enter 5 to QUIT")
+    print("Please Enter 5 to QUIT ")
 
     user_choice = input("\nEnter your choice (1-5): ")
 
