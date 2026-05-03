@@ -3,7 +3,7 @@ import os
 # Clear the screen once at the very beginning
 os.system('cls' if os.name == 'nt' else 'clear')
 
-print("Welcome to the Mini Calculator!!!")
+print("Welcome to Sujay's Awesome Mini Calculator v2.0!!!")
 
 # The 'while True:' loop starts here. Everything indented underneath it will repeat forever!
 while True:
